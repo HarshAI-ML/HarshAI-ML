@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Vesit Project**
 
+-  My deployed site is **[Phygital Farms](https://phygital-farms.vercel.app/)** 
+
 - 📫 How to reach me **shindeharsh0702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
