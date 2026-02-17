@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh" alt="harsh" /></a> </p>
 
-- 🔭 I’m currently working on **Vesit Project**
+- 🔭 Passionate Tech Enthusiast , Currently Pursing MCA 
 
 -  My deployed site is **[Phygital Farms](https://phygital-farms.vercel.app/)** 
 
