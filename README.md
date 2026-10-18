@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh" alt="harsh" /></a> </p>
 
-- 🔭 Currently Pursing MCA and Intern at Bizmetric 
+- 🔭 Associate Software Engineer at Bizmetric
 
 - 📫 How to reach me **shindeharsh0702@gmail.com**
 
